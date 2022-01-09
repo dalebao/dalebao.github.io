@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "字节面经（已offer）",
+      "path": "面经/字节面经（已offer）.md"
+    },
+    {
+      "basename": "查看 postgres 当前连接数",
+      "path": "数据库/Postgres/查看 postgres 当前连接数.md"
+    },
+    {
+      "basename": "Mysql 知识点整理",
+      "path": "数据库/MySQL/Mysql 知识点整理.md"
+    },
+    {
+      "basename": "mysql 面试题",
+      "path": "数据库/MySQL/mysql 面试题.md"
+    },
+    {
       "basename": "_sidebar",
       "path": "_sidebar.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "如何使用Redis实现限流",
       "path": "数据库/Redis/如何使用Redis实现限流.md"
-    },
-    {
-      "basename": "字节面经（已offer）",
-      "path": "面经/字节面经（已offer）.md"
     },
     {
       "basename": "AboutMe",
@@ -91,10 +103,6 @@
     {
       "basename": "接口的幂等性",
       "path": "Source/接口的幂等性.md"
-    },
-    {
-      "basename": "查看 postgres 当前连接数",
-      "path": "数据库/Postgres/查看 postgres 当前连接数.md"
     },
     {
       "basename": "MVCC&事务",
