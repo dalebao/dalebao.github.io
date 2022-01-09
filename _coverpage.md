@@ -11,7 +11,7 @@
 - Coder
 - 持续学习者
 
-[GitHub访问](https://dalebao.github.io/#/README)
+[直接访问](/README)
 [国内访问](http://111.231.85.55/#/README)
 
 <!-- 背景图片 -->
