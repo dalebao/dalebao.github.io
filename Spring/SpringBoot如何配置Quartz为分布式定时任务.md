@@ -82,7 +82,7 @@ public class QuartzConf {
 
 **quartz.properties**
 
-```
+```yaml
 org.quartz.scheduler.instanceName=liveScheduler
 org.quartz.scheduler.instanceId=AUTO
 

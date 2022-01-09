@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot如何配置Quartz为分布式定时任务",
+      "path": "Spring/SpringBoot如何配置Quartz为分布式定时任务.md"
+    },
+    {
+      "basename": "SpringBoot参数别名实现",
+      "path": "Spring/SpringBoot参数别名实现.md"
+    },
+    {
       "basename": "_sidebar",
       "path": "_sidebar.md"
+    },
+    {
+      "basename": "高性能MySQL_第3版（中文）",
+      "path": "阅读/高性能MySQL_第3版（中文）.pdf"
     },
     {
       "basename": "README",
@@ -69,10 +81,6 @@
       "path": "AboutMe.md"
     },
     {
-      "basename": "SpringBoot如何配置Quartz为分布式定时任务",
-      "path": "Spring/SpringBoot如何配置Quartz为分布式定时任务.md"
-    },
-    {
       "basename": "mysql 面试题",
       "path": "数据库/MySQL/mysql 面试题.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "查看 postgres 当前连接数",
       "path": "数据库/Postgres/查看 postgres 当前连接数.md"
-    },
-    {
-      "basename": "SpringBoot参数别名实现",
-      "path": "Spring/SpringBoot参数别名实现.md"
     },
     {
       "basename": "如何使用Redis实现限流",
@@ -135,10 +139,6 @@
     {
       "basename": "高性能MySQL_批注",
       "path": "阅读/高性能MySQL_批注.md"
-    },
-    {
-      "basename": "高性能MySQL_第3版（中文）",
-      "path": "阅读/高性能MySQL_第3版（中文）.pdf"
     },
     {
       "basename": "E1DF536E2956583B4F303D95588FC115",
