@@ -8,6 +8,8 @@
 		* [Redis 主从复制](数据库/Redis/Redis-主从复制.md)
 	* [应用](数据库/Redis/README.md)
 		* [如何使用Redis实现限流](数据库/Redis/如何使用Redis实现限流.md)
+* [MySQL](数据库/MySQL/README.md)
+	* [MySQL的结构与更新流程](数据库/MySQL/MySQL的结构与更新流程.md)
 * [Spring](Spring/README.md)
 	* [SpringBoot如何配置Quartz为分布式定时任务](Spring/SpringBoot如何配置Quartz为分布式定时任务.md)
 	* [SpringBoot参数别名实现](Spring/SpringBoot参数别名实现.md)

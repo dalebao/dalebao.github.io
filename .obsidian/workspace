@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面经/字节面经（已offer）.md",
+            "file": "AboutMe.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/字节面经（已offer）.md",
+                "file": "AboutMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/字节面经（已offer）.md"
+                "file": "AboutMe.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "dbd2e010ad054db0",
   "lastOpenFiles": [
-    "面经/字节面经（已offer）.md",
-    "_sidebar.md",
-    "Java/Java 阻塞队列以及使用场景.md",
-    "Java/java 锁.md",
-    "Java/Java 基础.md",
-    "Java/java 并发框架.md",
-    "_coverpage.md",
-    "README.md",
     "AboutMe.md",
-    "数据库/Postgres/查看 postgres 当前连接数.md"
+    "_sidebar.md",
+    "Spring/README.md",
+    "数据库/MySQL/README.md",
+    "面经/字节面经（已offer）.md",
+    "_coverpage.md",
+    "Spring/SpringBoot如何配置Quartz为分布式定时任务.md",
+    "数据库/MySQL/MySQL的结构与更新流程.md",
+    "数据库/MySQL/Mysql 知识点整理.md",
+    "数据库/MySQL/MySql 主从复制.md"
   ]
 }
