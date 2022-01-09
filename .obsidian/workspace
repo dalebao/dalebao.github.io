@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "ebcea92275db2a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd2e010ad054db0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_sidebar.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed66c38b3ca7243a",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b0398fa9b72edd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43abac36b907437c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "549b87e9a887c181",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cadb7bb7567124ac",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330
+  },
+  "right": {
+    "id": "7b7b4beccf97d0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8981987408f61bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ba1ecd27e51e625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_sidebar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8228801a6a75e05a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_sidebar.md"
+              }
+            }
+          },
+          {
+            "id": "3bbe304ecc51f24e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dbd2e010ad054db0",
+  "lastOpenFiles": [
+    "_sidebar.md",
+    "Spring/SpringBoot参数别名实现.md",
+    "Spring/SpringBoot如何配置Quartz为分布式定时任务.md",
+    "数据库/Redis/如何使用Redis实现限流.md",
+    "面经/字节面经（已offer）.md",
+    "AboutMe.md",
+    "_coverpage.md",
+    "README.md",
+    "_media/bg.jpg.md",
+    "数据库/Redis/Redis-主从复制.md"
+  ]
+}
