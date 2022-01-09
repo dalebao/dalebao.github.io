@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "字节面经（已offer）",
+      "path": "面经/字节面经（已offer）.md"
+    },
+    {
+      "basename": "Java 阻塞队列以及使用场景",
+      "path": "Java/Java 阻塞队列以及使用场景.md"
+    },
+    {
+      "basename": "java 锁",
+      "path": "Java/java 锁.md"
+    },
+    {
+      "basename": "Java 基础",
+      "path": "Java/Java 基础.md"
+    },
+    {
+      "basename": "java 并发框架",
+      "path": "Java/java 并发框架.md"
+    },
+    {
       "basename": "_coverpage",
       "path": "_coverpage.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "_sidebar",
       "path": "_sidebar.md"
-    },
-    {
-      "basename": "字节面经（已offer）",
-      "path": "面经/字节面经（已offer）.md"
     },
     {
       "basename": "查看 postgres 当前连接数",
@@ -111,14 +127,6 @@
     {
       "basename": "mysql",
       "path": "数据库/MySQL/mysql.md"
-    },
-    {
-      "basename": "java 并发框架",
-      "path": "Java/java 并发框架.md"
-    },
-    {
-      "basename": "Java 基础",
-      "path": "Java/Java 基础.md"
     },
     {
       "basename": "Java GC",
