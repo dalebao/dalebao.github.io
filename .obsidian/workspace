@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dbd2e010ad054db0",
+        "id": "629dfeda57c21d14",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AboutMe.md",
+            "file": "面经/README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 409.5
   },
   "right": {
     "id": "7b7b4beccf97d0c3",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AboutMe.md",
+                "file": "面经/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AboutMe.md"
+                "file": "面经/README.md"
               }
             }
           },
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbd2e010ad054db0",
+  "active": "629dfeda57c21d14",
   "lastOpenFiles": [
-    "AboutMe.md",
+    "面经/README.md",
+    "面经/字节面经（已offer）.md",
     "_sidebar.md",
     "Spring/README.md",
     "数据库/MySQL/README.md",
-    "面经/字节面经（已offer）.md",
-    "_coverpage.md",
-    "Spring/SpringBoot如何配置Quartz为分布式定时任务.md",
+    "系统/README.md",
+    "数据库/Redis/README.md",
+    "系统/分布式事务_思维导图.md",
     "数据库/MySQL/MySQL的结构与更新流程.md",
-    "数据库/MySQL/Mysql 知识点整理.md",
     "数据库/MySQL/MySql 主从复制.md"
   ]
 }

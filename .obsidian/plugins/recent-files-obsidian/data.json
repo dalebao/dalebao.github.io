@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "AboutMe",
-      "path": "AboutMe.md"
+      "basename": "README",
+      "path": "面经/README.md"
+    },
+    {
+      "basename": "字节面经（已offer）",
+      "path": "面经/字节面经（已offer）.md"
     },
     {
       "basename": "_sidebar",
@@ -17,36 +21,60 @@
       "path": "数据库/MySQL/README.md"
     },
     {
-      "basename": "字节面经（已offer）",
-      "path": "面经/字节面经（已offer）.md"
+      "basename": "README",
+      "path": "系统/README.md"
     },
     {
-      "basename": "_coverpage",
-      "path": "_coverpage.md"
+      "basename": "README",
+      "path": "数据库/Redis/README.md"
     },
     {
-      "basename": "SpringBoot如何配置Quartz为分布式定时任务",
-      "path": "Spring/SpringBoot如何配置Quartz为分布式定时任务.md"
+      "basename": "分布式事务_思维导图",
+      "path": "系统/分布式事务_思维导图.md"
     },
     {
       "basename": "MySQL的结构与更新流程",
       "path": "数据库/MySQL/MySQL的结构与更新流程.md"
     },
     {
-      "basename": "Mysql 知识点整理",
-      "path": "数据库/MySQL/Mysql 知识点整理.md"
-    },
-    {
       "basename": "MySql 主从复制",
       "path": "数据库/MySQL/MySql 主从复制.md"
     },
     {
-      "basename": "mysql 面试题",
-      "path": "数据库/MySQL/mysql 面试题.md"
+      "basename": "MVCC&事务",
+      "path": "数据库/MySQL/MVCC&事务.md"
     },
     {
-      "basename": "mysql 的三个log",
-      "path": "数据库/MySQL/mysql 的三个log.md"
+      "basename": "mysql",
+      "path": "数据库/MySQL/mysql.md"
+    },
+    {
+      "basename": "分布式锁的实现",
+      "path": "系统/分布式锁的实现.md"
+    },
+    {
+      "basename": "_coverpage",
+      "path": "_coverpage.md"
+    },
+    {
+      "basename": "IO模型",
+      "path": "系统/IO模型.md"
+    },
+    {
+      "basename": "Mysql 知识点整理",
+      "path": "数据库/MySQL/Mysql 知识点整理.md"
+    },
+    {
+      "basename": "AboutMe",
+      "path": "AboutMe.md"
+    },
+    {
+      "basename": "SpringBoot如何配置Quartz为分布式定时任务",
+      "path": "Spring/SpringBoot如何配置Quartz为分布式定时任务.md"
+    },
+    {
+      "basename": "mysql 面试题",
+      "path": "数据库/MySQL/mysql 面试题.md"
     },
     {
       "basename": "Java 阻塞队列以及使用场景",
@@ -101,10 +129,6 @@
       "path": "数据库/Redis/Redis-基础数据结构.md"
     },
     {
-      "basename": "README",
-      "path": "数据库/Redis/README.md"
-    },
-    {
       "basename": "Redis-五大基础数据结构",
       "path": "数据库/Redis/Redis-五大基础数据结构.md"
     },
@@ -141,14 +165,6 @@
       "path": "Source/接口的幂等性.md"
     },
     {
-      "basename": "MVCC&事务",
-      "path": "数据库/MySQL/MVCC&事务.md"
-    },
-    {
-      "basename": "mysql",
-      "path": "数据库/MySQL/mysql.md"
-    },
-    {
       "basename": "Java GC",
       "path": "Java/Java GC.md"
     },
@@ -157,16 +173,8 @@
       "path": "中间件/Kafka/Kafka consumer.md"
     },
     {
-      "basename": "IO模型",
-      "path": "系统/IO模型.md"
-    },
-    {
       "basename": "备忘",
       "path": "Source/备忘.md"
-    },
-    {
-      "basename": "分布式事务",
-      "path": "系统/分布式事务.md"
     },
     {
       "basename": "部分功能实现方案",
