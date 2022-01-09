@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面经/README.md",
+            "file": "_sidebar.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/README.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/README.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -119,9 +119,9 @@
   },
   "active": "629dfeda57c21d14",
   "lastOpenFiles": [
+    "_sidebar.md",
     "面经/README.md",
     "面经/字节面经（已offer）.md",
-    "_sidebar.md",
     "Spring/README.md",
     "数据库/MySQL/README.md",
     "系统/README.md",
