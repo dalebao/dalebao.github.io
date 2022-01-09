@@ -6,12 +6,14 @@
 
 > 基于 Obsidian+Docsify+Github Pages 的个人知识库
 
-[![github](https://img.shields.io/badge/github-babeltower-brightgreen.svg)](https://github.com/BabelTower/notes) 
+[![github](https://img.shields.io/badge/github-babeltower-brightgreen.svg)](https://github.com/dalebao/dalebao.github.io) 
 
 - Coder
+- 持续学习者
 
-[Get Started](README.md)
+[GitHub访问](https://dalebao.github.io/#/README)
+[国内访问](http://111.231.85.55/#/README)
 
 <!-- 背景图片 -->
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gy7f61nwdsj31hc0u0k0t.jpg)
+![](http://bucket-ceshi-dalebao.oss-cn-hangzhou.aliyuncs.com/2022/01/09/fengitaito-yuanu36633503.png))

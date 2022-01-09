@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_coverpage",
+      "path": "_coverpage.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "AboutMe",
+      "path": "AboutMe.md"
+    },
+    {
       "basename": "_sidebar",
       "path": "_sidebar.md"
     },
@@ -31,18 +43,6 @@
     {
       "basename": "如何使用Redis实现限流",
       "path": "数据库/Redis/如何使用Redis实现限流.md"
-    },
-    {
-      "basename": "AboutMe",
-      "path": "AboutMe.md"
-    },
-    {
-      "basename": "_coverpage",
-      "path": "_coverpage.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "bg.jpg",
