@@ -82,7 +82,6 @@
 6. SQL题：公司部门表与部门员工表，找出部门人数最多的部门列表（人数最多的部门可能不止一个）答：
 ```sql
 select a.dept_id from (select dept_id,count(id) as count from dept_user group by dept_id) as a ,(select dept_id,count(id) as count from dept_user group by dept_id order by count desc limit 1) as b where a.count = b.count
-
 ```
 7. 设计题：抖音关注设计，要求：1. 判断自己是否关注对方。2. 判断对方是否关注自己 。答：使用 redis 的hash，维护自己的关注列表和粉丝列表。注意判断 大V 是否关注自己，使用自己的粉丝类别来判断。
 8. 设计题：观看抖音的视频feed流。答：核心为 读扩散和写扩散。
