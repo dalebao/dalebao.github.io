@@ -1,5 +1,8 @@
 {
-  "baseFontSize": 17,
-  "cssTheme": "Dracula for Obsidian",
-  "translucency": false
+  "baseFontSize": 16,
+  "cssTheme": "Wasp",
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
 }

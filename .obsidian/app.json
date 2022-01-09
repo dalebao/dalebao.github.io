@@ -3,5 +3,8 @@
   "livePreview": true,
   "attachmentFolderPath": "附件",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "spellcheck": false
 }
