@@ -7,13 +7,8 @@
         "id": "dbd2e010ad054db0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "面经/字节面经（已offer）.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/字节面经（已offer）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "面经/字节面经（已offer）.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,6 +112,7 @@
   "active": "dbd2e010ad054db0",
   "lastOpenFiles": [
     "面经/字节面经（已offer）.md",
+    "_sidebar.md",
     "Java/Java 阻塞队列以及使用场景.md",
     "Java/java 锁.md",
     "Java/Java 基础.md",
@@ -127,7 +120,6 @@
     "_coverpage.md",
     "README.md",
     "AboutMe.md",
-    "_sidebar.md",
     "数据库/Postgres/查看 postgres 当前连接数.md"
   ]
 }

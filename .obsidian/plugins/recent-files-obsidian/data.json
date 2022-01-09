@@ -5,6 +5,10 @@
       "path": "面经/字节面经（已offer）.md"
     },
     {
+      "basename": "_sidebar",
+      "path": "_sidebar.md"
+    },
+    {
       "basename": "Java 阻塞队列以及使用场景",
       "path": "Java/Java 阻塞队列以及使用场景.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "AboutMe",
       "path": "AboutMe.md"
-    },
-    {
-      "basename": "_sidebar",
-      "path": "_sidebar.md"
     },
     {
       "basename": "查看 postgres 当前连接数",

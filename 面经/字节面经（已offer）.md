@@ -68,4 +68,32 @@
 24. 问：事务提交成功，redolog 可能没写到磁盘吗？答：redolog 不 fsync （redo log 刷盘的三个策略）（事务没提交也可能已经落盘）。
 25. 问：此时能否保证数据不丢？答：不行。
 26. 设计题：设计拼手气红包（并发是春晚发红包）？答：（避免重复抢、红包分配问题、超发问题）略。
-27. 算法：[最长无重复子串](!https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/)
+27. 算法：[最长无重复子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/)
+
+总结：这一面表现的不错，面试官问的问题基本都答上来了。给我的感觉就是，面试官及其的细致，细致到一个redis键的键名怎么设计都需要说清楚。
+
+## 字节三面
+
+1. 自我介绍
+2. 介绍项目
+3. 问：如何解决死锁？答：锁定资源顺序，优先级保持一致。（答的不是很好）
+4. 问：事务管理器如何设计？答：threadlocal，aop 加 栈。在栈里保存方法的执行先后顺序。
+5. 问：Concurrenthashmap 做了哪些优化？答：分段锁改为 cas+自旋，synchronized。
+6. SQL题：公司部门表与部门员工表，找出部门人数最多的部门列表（人数最多的部门可能不止一个）答：
+```sql
+select a.dept_id from (select dept_id,count(id) as count from dept_user group by dept_id) as a ,(select dept_id,count(id) as count from dept_user group by dept_id order by count desc limit 1) as b where a.count = b.count
+
+```
+7. 设计题：抖音关注设计，要求：1. 判断自己是否关注对方。2. 判断对方是否关注自己 。答：使用 redis 的hash，维护自己的关注列表和粉丝列表。注意判断 大V 是否关注自己，使用自己的粉丝类别来判断。
+8. 设计题：观看抖音的视频feed流。答：核心为 读扩散和写扩散。
+	1. 每个用户都有一个观看列表
+	2. 小V 发布视频写入自己粉丝的观看列表（写扩散）
+	3. 大V 发布视频，粉丝从大V的发布列表读取数据（读扩散）
+	4. 拉去视频流，从自己的观看列表中选取N个视频，然后从自己关注的大V中选取M个大V，分别去他们的发布列表拿去一个视频。共 N + M 个视频，下发给观众。
+5. 问：大V掉粉变成小V过程，如何避免频繁变化？答：参考HashMap，列表变红黑树过程，设置一个缓冲区。例如：10万粉丝变大V，但是要掉到8万粉丝一下才会变小V。
+
+总结：细，还是很细。但是三面关注的更多的是系统设计。属于凑巧了，在面试前研究过很多feed流的设计，而且自己本身的工作也和feed比较类似，所以这面答的还不错。这面没有算法题，估计是因为太晚的缘故。
+
+## 总结
+三场面试，历时一个半星期，之后就是HR面和等着走流程发offer。整个过程持续三个星期，最终还是拿到offer了。
+感觉下来，这次的面试很细致，面试官给我的感觉很也好。感觉上一面最难，因为知识点的广度很深度都涉及到了。
