@@ -1,9 +1,10 @@
 # SpringBoot 如何配置 quartz 为分布式定时任务
 
 ## 背景
+
 项目需要一个分布式的定时任务，预研之后选择使用 `quartz`。
-`quartz` 的分布式需要依赖关系型数据库支持存储一些任务信息。建表sql存在于 `quartz` 项目中，[github 可见](https://github.com/quartz-scheduler/quartz/tree/d42fb7770f287afbf91f6629d90e7698761ad7d8/quartz-core/src/main/resources/org/quartz/impl/jdbcjobstore)
-库中提供了多种数据库的执行sql，我的项目采用的 `postgres` 作为持久化数据库。
+`quartz` 的分布式需要依赖关系型数据库支持存储一些任务信息。建表 sql 存在于 `quartz` 项目中，[github 可见](https://github.com/quartz-scheduler/quartz/tree/d42fb7770f287afbf91f6629d90e7698761ad7d8/quartz-core/src/main/resources/org/quartz/impl/jdbcjobstore)
+库中提供了多种数据库的执行 sql，我的项目采用的 `postgres` 作为持久化数据库。
 
 ## 配置 quartz
 
@@ -96,7 +97,7 @@ org.quartz.jobStore.driverDelegateClass=org.quartz.impl.jdbcjobstore.PostgreSQLD
 
 ## 使用
 
-先定义一个 job 
+先定义一个 job
 
 ```java
 @Repository

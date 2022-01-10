@@ -3,4 +3,4 @@
 - [Redis 内存优化](数据库/Redis/Redis-内存优化.md)
 - [Redis 持久化](数据库/Redis/Redis-持久化.md)
 - [Redis 主从复制](数据库/Redis/Redis-主从复制.md)
-- [如何使用Redis实现限流](数据库/Redis/如何使用Redis实现限流.md)
+- [如何使用 Redis 实现限流](数据库/Redis/如何使用Redis实现限流.md)
