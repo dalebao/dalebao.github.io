@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "showFrontmatter": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "defaultViewMode": "source"
 }

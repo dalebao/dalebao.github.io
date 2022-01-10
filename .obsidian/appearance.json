@@ -1,6 +1,6 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "Theme - All Alternate Themes",
+  "cssTheme": "Dracula for Obsidian",
   "translucency": false,
   "theme": "moonstone",
   "baseFontSizeAction": true,
@@ -12,10 +12,7 @@
     "Borber - SearchMatch",
     "Borber - RichLink",
     "Borber - OZ",
-    "Borber - HR",
     "Borber - HighlightMark",
-    "Borber - Fix",
-    "Borber - Badge",
-    "Borber - Admonition - NoteCloze"
+    "color-Heading"
   ]
 }

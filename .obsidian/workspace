@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_sidebar.md",
+            "file": "Spring/SpringBoot参数别名实现.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         },
         "group": "65e0bc24317b293d"
@@ -28,10 +28,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
-                "mode": "source",
+                "file": "Spring/SpringBoot参数别名实现.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             },
             "group": "65e0bc24317b293d"
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "_sidebar.md",
+                    "file": "Spring/SpringBoot参数别名实现.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -71,7 +71,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.25307325962288163,
+                      "scale": 0.42486579802907204,
                       "close": false
                     }
                   }
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "_sidebar.md"
+                    "file": "Spring/SpringBoot参数别名实现.md"
                   }
                 },
                 "group": "65e0bc24317b293d"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Spring/SpringBoot参数别名实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "Spring/SpringBoot参数别名实现.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "d9c0f3f3a27f3365",
   "lastOpenFiles": [
-    "_sidebar.md",
-    "Source/tcp ip网络.md",
-    "Source/索引结构.md",
-    "Source/接口的幂等性.md",
-    "Source/resources/E1DF536E2956583B4F303D95588FC115.png",
-    "Source/resources/5FF9C57B59A8CDE7418FF4248E1753F5.jpg",
-    "Source/resources/622A1626ABCEB856336F985B136B065F.png",
-    "Source/布隆过滤器.md",
     "Spring/SpringBoot参数别名实现.md",
-    "Source/部分功能实现方案.md"
+    "数据库/MySQL/MySQL的结构与更新流程.md",
+    "数据库/MySQL/MySql 主从复制.md",
+    "数据库/Redis/Redis-五大基础数据结构.md",
+    "数据库/Redis/Redis-基础数据结构.md",
+    "Java/java 并发框架.md",
+    "Java/Java 基础.md",
+    "Java/java 锁.md",
+    "_sidebar.md",
+    "Source/tcp ip网络.md"
   ]
 }

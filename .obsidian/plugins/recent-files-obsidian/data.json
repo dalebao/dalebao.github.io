@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot参数别名实现",
+      "path": "Spring/SpringBoot参数别名实现.md"
+    },
+    {
+      "basename": "MySQL的结构与更新流程",
+      "path": "数据库/MySQL/MySQL的结构与更新流程.md"
+    },
+    {
+      "basename": "MySql 主从复制",
+      "path": "数据库/MySQL/MySql 主从复制.md"
+    },
+    {
+      "basename": "Redis-五大基础数据结构",
+      "path": "数据库/Redis/Redis-五大基础数据结构.md"
+    },
+    {
+      "basename": "Redis-基础数据结构",
+      "path": "数据库/Redis/Redis-基础数据结构.md"
+    },
+    {
+      "basename": "java 并发框架",
+      "path": "Java/java 并发框架.md"
+    },
+    {
+      "basename": "Java 基础",
+      "path": "Java/Java 基础.md"
+    },
+    {
+      "basename": "java 锁",
+      "path": "Java/java 锁.md"
+    },
+    {
       "basename": "_sidebar",
       "path": "_sidebar.md"
     },
@@ -33,28 +65,12 @@
       "path": "Source/布隆过滤器.md"
     },
     {
-      "basename": "SpringBoot参数别名实现",
-      "path": "Spring/SpringBoot参数别名实现.md"
-    },
-    {
       "basename": "部分功能实现方案",
       "path": "Source/部分功能实现方案.md"
     },
     {
       "basename": "字节面经（已offer）",
       "path": "面经/字节面经（已offer）.md"
-    },
-    {
-      "basename": "java 并发框架",
-      "path": "Java/java 并发框架.md"
-    },
-    {
-      "basename": "Java 基础",
-      "path": "Java/Java 基础.md"
-    },
-    {
-      "basename": "java 锁",
-      "path": "Java/java 锁.md"
     },
     {
       "basename": "Kafka HA",
@@ -129,14 +145,6 @@
       "path": "系统/分布式事务_思维导图.md"
     },
     {
-      "basename": "MySQL的结构与更新流程",
-      "path": "数据库/MySQL/MySQL的结构与更新流程.md"
-    },
-    {
-      "basename": "MySql 主从复制",
-      "path": "数据库/MySQL/MySql 主从复制.md"
-    },
-    {
       "basename": "MVCC&事务",
       "path": "数据库/MySQL/MVCC&事务.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Redis-内存优化",
       "path": "数据库/Redis/Redis-内存优化.md"
-    },
-    {
-      "basename": "Redis-基础数据结构",
-      "path": "数据库/Redis/Redis-基础数据结构.md"
-    },
-    {
-      "basename": "Redis-五大基础数据结构",
-      "path": "数据库/Redis/Redis-五大基础数据结构.md"
     }
   ],
   "omittedPaths": [],
