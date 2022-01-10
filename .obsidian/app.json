@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "attachmentFolderPath": "附件",
   "promptDelete": false,
   "alwaysUpdateLinks": true,

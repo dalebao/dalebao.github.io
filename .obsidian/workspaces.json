@@ -8,6 +8,7 @@
           {
             "id": "d9c0f3f3a27f3365",
             "type": "leaf",
+            "dimension": 84.28824571766096,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,80 +21,56 @@
             "group": "65e0bc24317b293d"
           },
           {
-            "id": "51fa28567098a313",
+            "id": "744ab737eef3e06e",
             "type": "split",
+            "dimension": 15.711754282339044,
             "children": [
               {
-                "id": "eccf6bf803dc989d",
+                "id": "6257dff6532a35f2",
                 "type": "leaf",
-                "dimension": 74.8995983935743,
                 "state": {
-                  "type": "markdown",
+                  "type": "localgraph",
                   "state": {
                     "file": "Spring/SpringBoot参数别名实现.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.42486579802907204,
+                      "close": false
+                    }
                   }
                 },
                 "group": "65e0bc24317b293d"
               },
               {
-                "id": "d886402bab275a51",
-                "type": "split",
-                "dimension": 25.100401606425706,
-                "children": [
-                  {
-                    "id": "6257dff6532a35f2",
-                    "type": "leaf",
-                    "dimension": 39.171597633136095,
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Spring/SpringBoot参数别名实现.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.42486579802907204,
-                          "close": false
-                        }
-                      }
-                    },
-                    "group": "65e0bc24317b293d"
-                  },
-                  {
-                    "id": "842eea8e836a2778",
-                    "type": "leaf",
-                    "dimension": 60.82840236686391,
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "Spring/SpringBoot参数别名实现.md"
-                      }
-                    },
-                    "group": "65e0bc24317b293d"
+                "id": "842eea8e836a2778",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Spring/SpringBoot参数别名实现.md"
                   }
-                ],
-                "direction": "vertical"
+                },
+                "group": "65e0bc24317b293d"
               }
             ],
             "direction": "horizontal"
