@@ -7,8 +7,13 @@
         "id": "ef96a1ada1097ce5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "系统/分布式事务_思维导图.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "系统/分布式事务_思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "系统/分布式事务_思维导图.md"
+              }
             }
           },
           {
@@ -119,15 +127,15 @@
   },
   "active": "ef96a1ada1097ce5",
   "lastOpenFiles": [
+    "系统/分布式事务_思维导图.md",
+    "面经/字节面经（已offer）.md",
     "中间件/Kafka/Kafka HA.md",
     "中间件/Kafka/Kafka consumer.md",
     "AboutMe.md",
     "_sidebar.md",
     "_coverpage.md",
-    "面经/字节面经（已offer）.md",
     "阅读/高性能MySQL_阅读.md",
     "阅读/高性能MySQL.pdf",
-    "Spring/README.md",
-    "Spring/SpringBoot参数别名实现.md"
+    "Spring/README.md"
   ]
 }

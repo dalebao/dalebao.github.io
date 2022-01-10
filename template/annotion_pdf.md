@@ -1,3 +1,0 @@
----
-annotation-target: xx.pdf
----
