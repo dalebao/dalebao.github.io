@@ -1,4 +1,27 @@
 {
-  "choices": [],
-  "macros": []
+  "choices": [
+    {
+      "id": "0037d85c-23c2-4ae4-9079-ea27dd0da410",
+      "name": "time",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e3a0470b-4e96-458e-b26e-c1cb538a6077"
+    }
+  ],
+  "macros": [
+    {
+      "name": "time",
+      "id": "e3a0470b-4e96-458e-b26e-c1cb538a6077",
+      "commands": [
+        {
+          "name": "time",
+          "type": "UserScript",
+          "id": "65eceed9-eaed-43ae-9663-56157cf022dd",
+          "path": "script/time.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
 }

@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot参数别名实现",
+      "path": "Spring/SpringBoot参数别名实现.md"
+    },
+    {
+      "basename": "MySQL的结构与更新流程",
+      "path": "数据库/MySQL/MySQL的结构与更新流程.md"
+    },
+    {
+      "basename": "MySql 主从复制",
+      "path": "数据库/MySQL/MySql 主从复制.md"
+    },
+    {
+      "basename": "Redis-五大基础数据结构",
+      "path": "数据库/Redis/Redis-五大基础数据结构.md"
+    },
+    {
+      "basename": "Redis-基础数据结构",
+      "path": "数据库/Redis/Redis-基础数据结构.md"
+    },
+    {
+      "basename": "java 并发框架",
+      "path": "Java/java 并发框架.md"
+    },
+    {
+      "basename": "Java 基础",
+      "path": "Java/Java 基础.md"
+    },
+    {
+      "basename": "java 锁",
+      "path": "Java/java 锁.md"
+    },
+    {
+      "basename": "_sidebar",
+      "path": "_sidebar.md"
+    },
+    {
+      "basename": "tcp ip网络",
+      "path": "Source/tcp ip网络.md"
+    },
+    {
+      "basename": "索引结构",
+      "path": "Source/索引结构.md"
+    },
+    {
+      "basename": "接口的幂等性",
+      "path": "Source/接口的幂等性.md"
+    },
+    {
+      "basename": "E1DF536E2956583B4F303D95588FC115",
+      "path": "Source/resources/E1DF536E2956583B4F303D95588FC115.png"
+    },
+    {
+      "basename": "5FF9C57B59A8CDE7418FF4248E1753F5",
+      "path": "Source/resources/5FF9C57B59A8CDE7418FF4248E1753F5.jpg"
+    },
+    {
+      "basename": "622A1626ABCEB856336F985B136B065F",
+      "path": "Source/resources/622A1626ABCEB856336F985B136B065F.png"
+    },
+    {
+      "basename": "布隆过滤器",
+      "path": "Source/布隆过滤器.md"
+    },
+    {
+      "basename": "部分功能实现方案",
+      "path": "Source/部分功能实现方案.md"
+    },
+    {
+      "basename": "字节面经（已offer）",
+      "path": "面经/字节面经（已offer）.md"
+    },
+    {
       "basename": "Kafka HA",
       "path": "中间件/Kafka/Kafka HA.md"
     },
@@ -13,16 +85,8 @@
       "path": "AboutMe.md"
     },
     {
-      "basename": "_sidebar",
-      "path": "_sidebar.md"
-    },
-    {
       "basename": "_coverpage",
       "path": "_coverpage.md"
-    },
-    {
-      "basename": "字节面经（已offer）",
-      "path": "面经/字节面经（已offer）.md"
     },
     {
       "basename": "高性能MySQL_阅读",
@@ -35,10 +99,6 @@
     {
       "basename": "README",
       "path": "Spring/README.md"
-    },
-    {
-      "basename": "SpringBoot参数别名实现",
-      "path": "Spring/SpringBoot参数别名实现.md"
     },
     {
       "basename": "Redis设计与实现_阅读",
@@ -85,14 +145,6 @@
       "path": "系统/分布式事务_思维导图.md"
     },
     {
-      "basename": "MySQL的结构与更新流程",
-      "path": "数据库/MySQL/MySQL的结构与更新流程.md"
-    },
-    {
-      "basename": "MySql 主从复制",
-      "path": "数据库/MySQL/MySql 主从复制.md"
-    },
-    {
       "basename": "MVCC&事务",
       "path": "数据库/MySQL/MVCC&事务.md"
     },
@@ -121,18 +173,6 @@
       "path": "Java/Java 阻塞队列以及使用场景.md"
     },
     {
-      "basename": "java 锁",
-      "path": "Java/java 锁.md"
-    },
-    {
-      "basename": "Java 基础",
-      "path": "Java/Java 基础.md"
-    },
-    {
-      "basename": "java 并发框架",
-      "path": "Java/java 并发框架.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Redis-内存优化",
       "path": "数据库/Redis/Redis-内存优化.md"
-    },
-    {
-      "basename": "Redis-基础数据结构",
-      "path": "数据库/Redis/Redis-基础数据结构.md"
-    },
-    {
-      "basename": "Redis-五大基础数据结构",
-      "path": "数据库/Redis/Redis-五大基础数据结构.md"
-    },
-    {
-      "basename": "E1DF536E2956583B4F303D95588FC115",
-      "path": "Source/resources/E1DF536E2956583B4F303D95588FC115.png"
-    },
-    {
-      "basename": "622A1626ABCEB856336F985B136B065F",
-      "path": "Source/resources/622A1626ABCEB856336F985B136B065F.png"
-    },
-    {
-      "basename": "5FF9C57B59A8CDE7418FF4248E1753F5",
-      "path": "Source/resources/5FF9C57B59A8CDE7418FF4248E1753F5.jpg"
-    },
-    {
-      "basename": "同步借助问题",
-      "path": "Source/同步借助问题.md"
-    },
-    {
-      "basename": "索引结构",
-      "path": "Source/索引结构.md"
-    },
-    {
-      "basename": "接口的幂等性",
-      "path": "Source/接口的幂等性.md"
-    },
-    {
-      "basename": "Java GC",
-      "path": "Java/Java GC.md"
-    },
-    {
-      "basename": "备忘",
-      "path": "Source/备忘.md"
     }
   ],
   "omittedPaths": [],

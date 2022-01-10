@@ -1,7 +1,7 @@
 ## redisObject 对象
 先回顾一下 redisObject 对象的定义
 
-```
+```c
 /*src/redis.h/redisObject */
 typedef struct redisObject {
     // 刚刚好32 bits

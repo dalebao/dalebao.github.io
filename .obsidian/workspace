@@ -4,17 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "ef96a1ada1097ce5",
+        "id": "d9c0f3f3a27f3365",
         "type": "leaf",
+        "dimension": 84.28824571766096,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "系统/分布式事务_思维导图.md",
+            "file": "Spring/SpringBoot参数别名实现.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "65e0bc24317b293d"
+      },
+      {
+        "id": "744ab737eef3e06e",
+        "type": "split",
+        "dimension": 15.711754282339044,
+        "children": [
+          {
+            "id": "6257dff6532a35f2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spring/SpringBoot参数别名实现.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.42486579802907204,
+                  "close": false
+                }
+              }
+            },
+            "group": "65e0bc24317b293d"
+          },
+          {
+            "id": "842eea8e836a2778",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/SpringBoot参数别名实现.md"
+              }
+            },
+            "group": "65e0bc24317b293d"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -26,6 +83,7 @@
       {
         "id": "18b0398fa9b72edd",
         "type": "tabs",
+        "dimension": 73.29317269076306,
         "children": [
           {
             "id": "43abac36b907437c",
@@ -51,7 +109,22 @@
             }
           },
           {
-            "id": "cadb7bb7567124ac",
+            "id": "4db247b6705dd524",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a72fb4e917ee020d",
+        "type": "tabs",
+        "dimension": 26.706827309236946,
+        "children": [
+          {
+            "id": "8334b34d519f58e4",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -62,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 167
   },
   "right": {
     "id": "7b7b4beccf97d0c3",
@@ -78,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统/分布式事务_思维导图.md",
+                "file": "Spring/SpringBoot参数别名实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统/分布式事务_思维导图.md"
+                "file": "Spring/SpringBoot参数别名实现.md"
               }
             }
           },
@@ -118,24 +191,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 100,
     "collapsed": true
   },
-  "active": "ef96a1ada1097ce5",
+  "active": "d9c0f3f3a27f3365",
   "lastOpenFiles": [
-    "系统/分布式事务_思维导图.md",
-    "面经/字节面经（已offer）.md",
-    "中间件/Kafka/Kafka HA.md",
-    "中间件/Kafka/Kafka consumer.md",
-    "AboutMe.md",
+    "Spring/SpringBoot参数别名实现.md",
+    "数据库/MySQL/MySQL的结构与更新流程.md",
+    "数据库/MySQL/MySql 主从复制.md",
+    "数据库/Redis/Redis-五大基础数据结构.md",
+    "数据库/Redis/Redis-基础数据结构.md",
+    "Java/java 并发框架.md",
+    "Java/Java 基础.md",
+    "Java/java 锁.md",
     "_sidebar.md",
-    "_coverpage.md",
-    "阅读/高性能MySQL_阅读.md",
-    "阅读/高性能MySQL.pdf",
-    "Spring/README.md"
+    "Source/tcp ip网络.md"
   ]
 }

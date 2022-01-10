@@ -3,7 +3,7 @@
 ## 背景与痛点
 
 项目中经常出现一种情况：定了某个参数之后，前端又要求改参数名字，而你又不想因为这个名字而改变代码的优雅，于是就需要拥有一个参数对应两个参数名的能力。
-具体来说：业务拥有自定义协议，在java实体中定义的名字是全名，例如：`name` getter、setter 分别为 `getName()` 和 `setName(String name)`。
+具体来说：业务拥有自定义协议，在 java 实体中定义的名字是全名，例如：`name` getter、setter 分别为 `getName()` 和 `setName(String name)`。
 但是，在协议转发的过程中需要使用简写来优化消息体的大小`{"nm":"Dale"}`,不知道何种原因，前端要求使用`nm`对应原有的`name`。
 
 ## 思路
@@ -119,7 +119,6 @@ public class AliasModelAttributeMethodProcessor extends ServletModelAttributeMet
 }
 ```
 
-
 最后利用`WebMvcConfigurer.addArgumentResolvers(List<HandlerMethodArgumentResolver> resolvers)`注入`AliasModelAttributeMethodProcessor`
 
 **WebMvcConfiguration**
@@ -163,7 +162,7 @@ public class RequestParam {
     @NotNull(message = "name is required!")
     @ValueFrom(value = "nm")
     private String name;
-    
+
     public String getName() {
         return name;
     }
@@ -171,7 +170,7 @@ public class RequestParam {
     public void setName(String name) {
         this.name = name;
     }
-    
+
 }
 ```
 
@@ -192,11 +191,10 @@ public class NameController {
         // todo::
         return JsonResult.success();
     }
-    
+
 }
 ```
 
 ## 总结
 
 以上是 `SpringBoot` 设置参数别名的方法代码实记，深度不高，找时间再深挖。
-

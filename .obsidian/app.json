@@ -1,10 +1,11 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "attachmentFolderPath": "附件",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "showFrontmatter": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "defaultViewMode": "source"
 }
