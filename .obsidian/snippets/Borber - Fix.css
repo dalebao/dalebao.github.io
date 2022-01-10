@@ -1,6 +1,0 @@
-/* 用以解决主题与插件, 插件与插件之间的冲突 */
-
-/* banners 插件与  Copy Image and URL in Preview 的冲突*/
-.has-copy-button, .obsidian-banner-wrapper {
-    position: static !important;
-}

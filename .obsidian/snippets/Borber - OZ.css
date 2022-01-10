@@ -1,8 +1,0 @@
-/* 编辑器预览插件 oz , 美化嵌入块 */
-.oz-transclusion-widget {
-    border: 1px solid var(--td);
-    border-left: 2px solid #216546 !important;
-    background-color: var(--note);
-    box-shadow: -.3em .3em var(--td);
-    border-radius: var(--radius);
-}

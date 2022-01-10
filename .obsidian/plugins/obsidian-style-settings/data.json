@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@magic-main-color@@light": "#4691D5",
+  "blue-topaz-theme@@magic-main-color@@dark": "#34CAD9",
+  "blue-topaz-theme@@background-settings-workplace-style": "background-settings-workplace-style-high-transparency",
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-sky",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-four",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-none": "background-settings-workplace-theme-dark-blue-wave",
+  "blue-topaz-theme@@background-image-settings-markdown-page-random-options": "background-image-settings-markdown-page-random-blue",
+  "blue-topaz-theme@@background-image-settings-markdown-page-random": true,
+  "blue-topaz-theme@@blur-depth": 10,
+  "blue-topaz-theme@@bt-status-off": true,
+  "blue-topaz-theme@@unmuted-collapsed-folder": false,
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@light-background-color-files": false,
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-speech-bubble-one"
+}

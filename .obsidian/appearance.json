@@ -1,18 +1,8 @@
 {
   "baseFontSize": 19,
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Blue Topaz",
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "NothingIsLost - Line",
-    "Images - Addons",
-    "Borber - Zoom",
-    "Borber - Separator",
-    "Borber - SearchMatch",
-    "Borber - RichLink",
-    "Borber - OZ",
-    "Borber - HighlightMark",
-    "color-Heading"
-  ]
+  "enabledCssSnippets": []
 }
