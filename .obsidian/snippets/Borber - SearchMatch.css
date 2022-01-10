@@ -1,0 +1,4 @@
+/* 搜索结果词高亮美化 */
+span.obsidian-search-match-highlight{
+    background: #FF86BE90 !important;
+}

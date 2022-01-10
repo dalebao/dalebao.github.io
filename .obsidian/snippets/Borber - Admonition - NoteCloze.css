@@ -1,0 +1,15 @@
+/* cloze  By BORBER 使用教程:  https://obsidian.larksuite.com/docs/docus8GjVLC2zqoOVA0MTIuQBwe*/
+div.admonition-note-cloze div.admonition-content{
+    color: var(--dark-accent);
+    background-color:var(--dark-accent);
+    margin: 25px;
+}
+
+div.admonition-note-cloze div.admonition-content:hover{
+    cursor: pointer;
+}
+
+div.admonition-note-cloze div.admonition-content:active{
+    color: var(--text-normal) !important;
+    background-color: transparent !important;
+}

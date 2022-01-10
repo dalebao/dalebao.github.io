@@ -1,0 +1,16 @@
+/* 分隔符  用于笔记日期显示 <p class="separator">2021-09-09</p> */
+.separator>*{
+    display: inline-block;
+    vertical-align: middle;
+}
+.separator {
+    text-align: center;
+    border: 0;
+    color: #13181F;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to right, var(--background-primary), var(--text-accent), var(--background-primary));
+}

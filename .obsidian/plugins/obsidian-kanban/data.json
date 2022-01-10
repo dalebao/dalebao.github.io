@@ -1,0 +1,7 @@
+{
+  "new-note-template": "Source/resources/70C32D3192C389A2C3403E567D471CC2",
+  "new-note-folder": "kanban",
+  "hide-tags-in-title": true,
+  "hide-tags-display": true,
+  "date-trigger": ":date"
+}

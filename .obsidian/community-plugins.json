@@ -8,5 +8,7 @@
   "markdown-prettifier",
   "templater-obsidian",
   "obsidian-annotator",
-  "dataview"
+  "quickadd",
+  "obsidian-advanced-uri",
+  "recent-files-obsidian"
 ]

@@ -1,0 +1,40 @@
+/* 徽章 & 时间印记  <b class="stable">123</b> */
+
+.markdown-preview-view b {
+    color: #fff;
+    font-style:normal;
+    vertical-align: top;
+    padding: 1px 6px;
+    font-size: 12px;
+	font-weight: bold;
+    height: 14px;
+    line-height: 14px;
+	text-decoration:none;
+    display: inline;
+    border: 0px;
+    border-left-width: 0px;
+    border-radius: 0;
+    position: relative;
+    margin-left: 0;
+}
+
+.markdown-preview-view b.stable {
+    background-color: #42b983;
+}
+
+.markdown-preview-view b.beta {
+    background-color: #e7c000;
+}
+
+.markdown-preview-view time {
+    color: #fff;
+    background-color: #40BFBF;
+    font-style:normal;
+    padding: 1px 6px;
+    font-size: 12px;
+	font-weight: bold;
+    height: 14px;
+    line-height: 14px;
+	text-decoration:none;
+}
+

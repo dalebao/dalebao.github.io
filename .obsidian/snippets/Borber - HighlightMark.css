@@ -1,0 +1,92 @@
+/* https://forum.obsidian.md/t/use-nested-tag-to-manage-16-highlight-colors-blod-italic/11050 */
+/* BORBER 魔改 
+	1. 删除 高亮块
+	2. 添加 徽章, 时间印记
+	3. 徽章, 时间印记 支持  ==内容== *内容*两种方式
+*/
+
+mark {
+    padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+
+mark.orange {
+	color: rgb(222, 120, 2) !important;
+	background-color: transparent;
+}
+
+mark.gray {
+	color: rgb(143, 149, 158) !important;
+	background-color: transparent;
+}
+
+mark.red {
+	color: rgb(216, 57, 49) !important;
+	background-color: transparent;
+}
+
+mark.green {
+	color: rgb(46, 161, 33) !important;
+	background-color: transparent;
+}
+
+mark.purple {
+	color: rgb(100, 37, 208) !important;
+	background-color: transparent;
+}
+
+mark.blue {
+	color: rgb(36, 91, 219) !important;
+	background-color: transparent;
+}
+
+mark.b-orange {
+	background-color: rgba(254, 212, 164, 0.8) !important;
+	color: rgb(222, 120, 2) !important;
+}
+
+mark.b-yellow {
+	background-color: #fff3cd !important;
+	color: #856404 !important;
+}
+
+mark.b-pink {
+	background-color: #f8d7da !important;
+	color: #721c24 !important;
+}
+
+mark.b-red {
+	background-color: rgb(251, 191, 188) !important;
+	color: rgb(216, 57, 49) !important;
+}
+
+mark.b-green {
+	background-color: rgba(183, 237, 177, 0.8) !important;
+	color: rgb(46, 161, 33) !important;
+}
+
+mark.b-skyblue{
+	background-color: #d4edda !important;
+	color: #689ba3 !important;
+}
+
+mark.b-purple {
+	background-color: rgba(205, 178, 250, 0.7) !important;
+	color: rgb(100, 37, 208) !important;
+}
+
+mark.b-blue {
+	background-color: rgba(186, 206, 253, 0.7) !important;
+	color: rgb(36, 91, 219) !important;
+}
+
+mark.b-hjblue {
+	background-color: #d1ecf1 !important;
+	color: #35737d !important;
+}
+
+mark.b-gray {
+	background-color: rgba(222, 224, 227, 0.8) !important;
+	color: rgb(143, 149, 158) !important;
+}

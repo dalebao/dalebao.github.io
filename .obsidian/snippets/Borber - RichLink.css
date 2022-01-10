@@ -1,0 +1,8 @@
+/* 网址卡片插件美化 */
+.markdown-preview-view h1{
+    margin: 0 !important;
+}
+
+.markdown-preview-sizer .markdown-preview-section{
+    margin-top: 0 !important;
+}
