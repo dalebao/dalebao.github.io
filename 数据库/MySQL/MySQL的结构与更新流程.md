@@ -1,3 +1,7 @@
+# MySQL的结构与更新流程
+
+[TOC]
+
 ## MySQL 的结构
 
 mysql 主要分为 server 层以及存储引擎层。

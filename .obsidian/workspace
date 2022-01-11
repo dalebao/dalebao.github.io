@@ -202,14 +202,14 @@
   "active": "d9c0f3f3a27f3365",
   "lastOpenFiles": [
     "Spring/SpringBoot参数别名实现.md",
-    "数据库/MySQL/MySQL的结构与更新流程.md",
-    "数据库/MySQL/MySql 主从复制.md",
-    "数据库/Redis/Redis-五大基础数据结构.md",
-    "数据库/Redis/Redis-基础数据结构.md",
-    "Java/java 并发框架.md",
-    "Java/Java 基础.md",
-    "Java/java 锁.md",
+    "面经/字节面经（已offer）.md",
+    "系统/分布式事务_思维导图.md",
+    "中间件/Kafka/Kafka HA.md",
+    "中间件/Kafka/Kafka consumer.md",
+    "AboutMe.md",
     "_sidebar.md",
-    "Source/tcp ip网络.md"
+    "_coverpage.md",
+    "阅读/高性能MySQL_阅读.md",
+    "阅读/高性能MySQL.pdf"
   ]
 }

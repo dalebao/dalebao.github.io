@@ -1,5 +1,5 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-lillimon-topaz",
   "blue-topaz-theme@@magic-main-color@@light": "#4691D5",
   "blue-topaz-theme@@magic-main-color@@dark": "#34CAD9",
   "blue-topaz-theme@@background-settings-workplace-style": "background-settings-workplace-style-high-transparency",
@@ -13,5 +13,6 @@
   "blue-topaz-theme@@unmuted-collapsed-folder": false,
   "blue-topaz-theme@@remove-file-icons": false,
   "blue-topaz-theme@@light-background-color-files": false,
-  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-speech-bubble-one"
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-speech-bubble-one",
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-kawaii"
 }
