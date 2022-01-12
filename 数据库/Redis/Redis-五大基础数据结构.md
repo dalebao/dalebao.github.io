@@ -1,7 +1,5 @@
 # Redis-五大基础数据结构
 
-[TOC]
-
 > redis 的数据，分为键与值两部分，皆由 redisObject 实现。
 
 redisObject 结构主要说明对象的底层编码方式，以及实际指向等内容：

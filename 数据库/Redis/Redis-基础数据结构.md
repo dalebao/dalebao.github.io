@@ -1,7 +1,5 @@
 # Redis-基础数据结构
 
-[TOC]
-
 ## SDS
 
 1. sds 的定义

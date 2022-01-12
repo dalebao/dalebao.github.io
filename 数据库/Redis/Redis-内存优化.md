@@ -1,7 +1,5 @@
 # Redis-内存优化
 
-[TOC]
-
 ## redisObject 对象
 
 先回顾一下 redisObject 对象的定义
