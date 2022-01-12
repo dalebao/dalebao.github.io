@@ -64,25 +64,51 @@
   <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
-    const gitalk = new Gitalk({
-      clientID: '463ccc5ebd313c067ab2',
-      clientSecret: '8f037fe28b4e9785b2edfc2d053cb8afe88a9fab',
-      repo: 'dalebao.github.io',
-      owner: 'dalebao',
-      admin: ['dalebao'],
-      id: decodeURI(window.location.hash),
-      // facebook-like distraction free mode
-      distractionFreeMode: false,
+    (function () {
+  /* eslint-disable no-unused-vars */
+    function install(hook) {
+      var dom = Docsify.dom;
 
-    })
-    window.onhashchange = function(event){
-      if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
-        location.reload()
-      }
+      hook.mounted(function (_) {
+        var div = dom.create('div');
+        div.id = 'gitalk-container';
+        var main = dom.getNode('#main');
+        div.style = "width: " + (main.clientWidth) + "px; margin: 0 auto 20px;";
+        dom.appendTo(dom.find('.content'), div);
+      });
+
+      hook.doneEach(function (_) {
+        var el = document.getElementById('gitalk-container');
+        while (el.hasChildNodes()) {
+          el.removeChild(el.firstChild);
+        }
+        const gitalk = new Gitalk({
+          clientID: '463ccc5ebd313c067ab2',
+          clientSecret: '8f037fe28b4e9785b2edfc2d053cb8afe88a9fab',
+          repo: 'dalebao.github.io',
+          owner: 'dalebao',
+          admin: ['dalebao'],
+          id: decodeURI(window.location.hash),
+          // facebook-like distraction free mode
+          distractionFreeMode: false,
+
+        })
+        // eslint-disable-next-line
+        gitalk.render('gitalk-container');
+      });
     }
+
+    $docsify.plugins = [].concat(install, $docsify.plugins);
+
+    }());
+    
+    // window.onhashchange = function(event){
+    //   if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+    //     location.reload()
+    //   }
+    // }
   </script>
 
 
