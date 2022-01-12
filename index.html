@@ -73,16 +73,11 @@
       repo: 'dalebao.github.io',
       owner: 'dalebao',
       admin: ['dalebao'],
-      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+      id: location.href,
       // facebook-like distraction free mode
       distractionFreeMode: false,
       label: "gitalkComment"
     })
-    window.onhashchange = function(event){
-      if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
-        location.reload()
-      }
-    }
   </script>
 
 
