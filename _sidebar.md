@@ -15,6 +15,7 @@
 	* [SpringBoot参数别名实现](Spring/SpringBoot参数别名实现.md)
 *  [系统](系统/README.md)
 	* [分布式事务_思维导图](系统/分布式事务_思维导图.md)
+	* [一致性Hash](系统/一致性Hash.md)
 * [面经](面经/README.md)
 	* [字节面经](面经/字节面经（已offer）.md)
 * [AboutMe](AboutMe.md)
