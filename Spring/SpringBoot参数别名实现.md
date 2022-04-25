@@ -131,6 +131,13 @@ public class AliasModelAttributeMethodProcessor extends ServletModelAttributeMet
  */
 @Component
 public class WebMvcConfiguration implements WebMvcConfigurer {
+    
+    private ApplicationContext applicationContext;
+
+    @Autowired
+    public void setApplicationContext(ApplicationContext applicationContext) {
+        this.applicationContext = applicationContext;
+    }
 
     @Override
     public void addArgumentResolvers(List<HandlerMethodArgumentResolver> resolvers) {
